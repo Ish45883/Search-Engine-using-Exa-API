@@ -17,7 +17,7 @@ This project demonstrates how to build a basic web search application that combi
 
 Below is a snapshot of the search page:
 
-[click here for snapshot](img.png)
+[](img.png)
 
 ## EXA API Key Requirement
 
